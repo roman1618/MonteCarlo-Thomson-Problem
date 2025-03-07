@@ -7,7 +7,6 @@ This repository contains the Jupyter Notebook for solving the Thomson Problem us
 - Introduction
 - File
 - Usage
-- License
 - References
 
 ## Introduction
@@ -31,10 +30,6 @@ Additionally, the repository contains a CSV file `NUthom.csv`, which contains da
 3. Follow the instructions within the notebook to perform the Monte Carlo annealing procedure and visualize the optimal charge configuration.
 4. Review the optimal configuration, energy, and radial distribution function.
 5. The `NUthom.csv` file contains supplementary data that can be analyzed or used for comparison with the results.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## References
 
